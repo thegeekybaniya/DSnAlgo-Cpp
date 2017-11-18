@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/DSnAlgo_Cpp.dir/StackLinkedList.cpp.o CMakeFiles/DSnAlgo_Cpp.dir/QueueLinkedList.cpp.o  -o DSnAlgo_Cpp 

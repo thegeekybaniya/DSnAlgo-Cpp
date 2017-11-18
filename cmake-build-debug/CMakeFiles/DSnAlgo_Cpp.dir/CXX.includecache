@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thegeekybaniya/CLionProjects/DSnAlgo-Cpp/QueueLinkedList.cpp
+iostream
+-
+
+/home/thegeekybaniya/CLionProjects/DSnAlgo-Cpp/StackLinkedList.cpp
+iostream
+-
+
